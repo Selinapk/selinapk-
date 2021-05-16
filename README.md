@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey!I'm selina pokharel. Thanks for the visit.😄</h1>
 <h3 align="center">I’m out here hustlin’ to claim what’s mine🤙</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selinapk" alt="selinapk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tocollapseee" target="blank"><img src="https://img.shields.io/twitter/follow/tocollapseee?logo=twitter&style=for-the-badge" alt="tocollapseee" /></a> </p>
 
 - 🔭 I’m currently working on **different programming language.👩‍💻**
 
@@ -20,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/tocollapseee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="tocollapseee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/selina-pokharel-19938115a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selina-pokharel-19938115a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/selinapk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/selinapk" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/selenapokharel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/selenapokharel/" height="30" width="40" /></a>
