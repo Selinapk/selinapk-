@@ -35,8 +35,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selinapk&show_icons=true&locale=en&layout=compact&theme=dracula" alt="selinapk" />
 <br/> 
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=selinapk&show_icons=true&locale=en" alt="selinapk" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=selinapk&show_icons=true&locale=en" alt="selinapk" />
 <br/>
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selinapk&" alt="selinapk" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=selinapk&" alt="selinapk" />
 
